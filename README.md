@@ -9,7 +9,7 @@
 
 ## 📫 How to Reach Me  
 - Email: dulithkavinda2000@gmail.com  
-- LinkedIn: [http://www.linkedin.com/in/dulithsilva](https://www.linkedin.com/in/sandiru-samarakoon)
+- LinkedIn: [http://www.linkedin.com/in/dulithsilva](http://www.linkedin.com/in/dulithsilva)
 
 ---
 
