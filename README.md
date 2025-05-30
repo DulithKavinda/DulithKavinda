@@ -1,4 +1,4 @@
-Versatile  developer specializing in **DevOps** and **QA automation**, with experience in Python, Java, cloud infrastructure (AWS, Kubernetes), and web development. I enjoy building scalable, automated solutions and ensuring high-quality software delivery.
+🚀 Versatile  developer specializing in **DevOps** and **QA automation**, with experience in Python, Java, cloud infrastructure (AWS, Kubernetes), and web development. I enjoy building scalable, automated solutions and ensuring high-quality software delivery.
 
 ## 🛠️ Technical Skills  
 - **Languages:** Python, Java, Bash, JavaScript, C, C#, SQL, YAML  
