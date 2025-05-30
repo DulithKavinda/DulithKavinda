@@ -13,4 +13,4 @@
 
 ---
 
-Thanks for stopping by! Feel free to connect or check out my projects below 👇
+Feel free to connect or check out my projects below 👇
